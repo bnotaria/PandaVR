@@ -19,6 +19,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -57,6 +58,9 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Reddot.aspx" />
+    <Content Include="ARMinimap.aspx" />
+    <Content Include="VRMinimap.aspx" />
     <Content Include="PrimaryMaster.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -92,6 +96,27 @@
     <Content Include="Scripts\jquery-1.9.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Reddot.aspx.cs">
+      <DependentUpon>Reddot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Reddot.aspx.designer.cs">
+      <DependentUpon>Reddot.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ARMinimap.aspx.cs">
+      <DependentUpon>ARMinimap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ARMinimap.aspx.designer.cs">
+      <DependentUpon>ARMinimap.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="VRMinimap.aspx.cs">
+      <DependentUpon>VRMinimap.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="VRMinimap.aspx.designer.cs">
+      <DependentUpon>VRMinimap.aspx</DependentUpon>
+    </Compile>
     <Compile Include="contentsample.aspx.cs">
       <DependentUpon>contentsample.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

@@ -22,10 +22,9 @@
 		<div class="navbar navbar-inverse navbar-fixed-left">
 			<a class="navbar-brand" href="/" title="Homepage"><img src="sparepanda_96.png" alt="Brian Notarianni" class="center-block" /></a>
 			<ul class="nav navbar-nav">
-				<li><a href="/contentsample.aspx">Content Sample One</a></li>
-				<li><a href="/contentsample.aspx">Content Sample Two</a></li>
-				<li><a href="/contentsample.aspx">Content Sample Three</a></li>
-				<li><a href="/contentsample.aspx">Content Sample Four</a></li>
+				<li><a href="/VRMinimap.aspx">Virtaul Reality Minimap</a></li>
+				<li><a href="/ARMinimap.aspx">Augment Reality Minimap</a></li>
+				<li><a href="/Reddot.aspx">VR Scope</a></li>
 				<li><a href="#"> <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;Download Resume</a></li>
 			</ul>
 		</div>

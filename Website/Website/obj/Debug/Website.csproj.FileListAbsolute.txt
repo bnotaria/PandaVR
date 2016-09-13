@@ -4,3 +4,9 @@ C:\Users\frost\Desktop\PandaVR\PandaVR\Website\Website\bin\Website.pdb
 C:\Users\frost\Desktop\PandaVR\PandaVR\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
 C:\Users\frost\Desktop\PandaVR\PandaVR\Website\Website\obj\Debug\Website.dll
 C:\Users\frost\Desktop\PandaVR\PandaVR\Website\Website\obj\Debug\Website.pdb
+F:\_Portfolio\PandaVR\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+F:\_Portfolio\PandaVR\Website\Website\obj\Debug\Website.dll
+F:\_Portfolio\PandaVR\Website\Website\obj\Debug\Website.pdb
+F:\_Portfolio\PandaVR\Website\Website\bin\Website.dll.config
+F:\_Portfolio\PandaVR\Website\Website\bin\Website.dll
+F:\_Portfolio\PandaVR\Website\Website\bin\Website.pdb
