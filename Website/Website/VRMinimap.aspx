@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-	<h2>Virtaul Realty Minimap</h2>
+	<h2>Virtual Realty Minimap</h2>
 
 	<div class="jumbotron">
         <iframe src='https://gfycat.com/ifr/InfatuatedUnluckyBuffalo' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
