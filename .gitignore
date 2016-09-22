@@ -1,0 +1,6 @@
+*.suo
+Website/Website/bin/Website.dll
+*.cache
+Website/Website/obj/Debug/Website.dll
+*.pdb
+Website/Website/Website.csproj.user
