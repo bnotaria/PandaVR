@@ -58,6 +58,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="MastersThesis.aspx" />
     <Content Include="Reddot.aspx" />
     <Content Include="ARMinimap.aspx" />
     <Content Include="VRMinimap.aspx" />
@@ -96,6 +97,13 @@
     <Content Include="Scripts\jquery-1.9.1.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MastersThesis.aspx.cs">
+      <DependentUpon>MastersThesis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MastersThesis.aspx.designer.cs">
+      <DependentUpon>MastersThesis.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Reddot.aspx.cs">
       <DependentUpon>Reddot.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

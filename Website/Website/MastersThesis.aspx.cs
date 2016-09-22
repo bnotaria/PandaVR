@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Website
 {
-	public partial class contentsample : System.Web.UI.Page
+	public partial class MastersThesis: System.Web.UI.Page
 	{
 	}
 }
