@@ -58,9 +58,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Content Include="MastersThesis.aspx" />
-=======
     <None Include="Scripts\jquery-1.12.4.intellisense.js" />
     <Content Include="Content\themes\base\accordion.css" />
     <Content Include="Content\themes\base\all.css" />
@@ -103,12 +100,12 @@
     <Content Include="Content\themes\base\tabs.css" />
     <Content Include="Content\themes\base\theme.css" />
     <Content Include="Content\themes\base\tooltip.css" />
+    <Content Include="MastersThesis.aspx" />
     <Content Include="Scripts\jquery-1.12.4.js" />
     <Content Include="Scripts\jquery-1.12.4.min.js" />
     <Content Include="Scripts\jquery-ui-1.12.1.js" />
     <Content Include="Scripts\jquery-ui-1.12.1.min.js" />
     <Content Include="tablisting.aspx" />
->>>>>>> 6d3a5f9ca358f02df0b3362aa640e80990705475
     <Content Include="Reddot.aspx" />
     <Content Include="ARMinimap.aspx" />
     <Content Include="VRMinimap.aspx" />
@@ -144,21 +141,19 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Compile Include="MastersThesis.aspx.cs">
       <DependentUpon>MastersThesis.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="MastersThesis.aspx.designer.cs">
       <DependentUpon>MastersThesis.aspx</DependentUpon>
-=======
+    </Compile>
     <Compile Include="tablisting.aspx.cs">
       <DependentUpon>tablisting.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="tablisting.aspx.designer.cs">
       <DependentUpon>tablisting.aspx</DependentUpon>
->>>>>>> 6d3a5f9ca358f02df0b3362aa640e80990705475
     </Compile>
     <Compile Include="Reddot.aspx.cs">
       <DependentUpon>Reddot.aspx</DependentUpon>
