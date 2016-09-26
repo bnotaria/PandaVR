@@ -12,11 +12,11 @@
 			<h4>Video of my Master's Thesis. Toolbar is on the left. RadiANT DICOM viewer in the center. On the right: Leap Motion view for recognision and a color video for demostation purposes.</h4>
 		</div>
 		<div>
-			<strong>Language: </strong>Toolbar in C#, Data analysis in Matlab and prototyping in Unity.
+			<strong>Language:</strong> Toolbar in C#, Data analysis in Matlab and prototyping in Unity.
 		</div>
 
 		<div>
-			<strong>Goal: </strong>Allow a surgeon to manipulate DICOM scans while mantaining a sterile environment.
+			<strong>Goal:</strong>Allow a surgeon to manipulate DICOM scans while mantaining a sterile environment.
 		</div>
 		<div>
 			<strong>Approach: </strong>The project was split into two parts: Protocal design and Gesture Recognition. The Protocal uses 1 gesture and menu system. The Gestoure recognition use SVD and k nearest neigbors.

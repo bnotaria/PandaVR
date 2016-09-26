@@ -5,3 +5,5 @@ Website/Website/obj/Debug/Website.dll
 *.pdb
 Website/Website/Website.csproj.user
 Website/Website.v12.suo
+*.pdb
+Website/Website/obj/Debug/Website.dll

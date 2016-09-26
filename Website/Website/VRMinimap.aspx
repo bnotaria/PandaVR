@@ -12,13 +12,13 @@
 		</div>
 
 		<div>
-			<strong>Language: </strong>Unity3D using C#
+			<strong>Language:</strong> Unity3D using C#
 		</div>
 		<div>
-			<strong>Goal: </strong>Full 3D minimap
+			<strong>Goal:</strong> Full 3D minimap
 		</div>
 		<div>
-			<strong>Aproach: </strong>Uses a second camera, changing the Interpupillary distance (IPD) to shrink the world.
+			<strong>Aproach:</strong> Uses a second camera, changing the Interpupillary distance (IPD) to shrink the world.
 		</div>
 		<div class="spacer">
 			<p>
