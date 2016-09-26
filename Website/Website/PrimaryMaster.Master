@@ -27,6 +27,8 @@
 				<li><a href="/VRMinimap.aspx">Virtual Reality Minimap</a></li>
 				<li><a href="/ARMinimap.aspx">Augment Reality Minimap</a></li>
 				<li><a href="/Reddot.aspx">VR Scope</a></li>
+				<li><a href="/tablisting.aspx">Coursework</a></li>
+				<li><a href="/MastersThesis.aspx">Master's Thesis</a></li>
 				<li><a href="/Resume_bnotaria_sept14.doc"> <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>&nbsp;Download Resume</a></li>
 			</ul>
 		</div>
