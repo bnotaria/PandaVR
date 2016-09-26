@@ -7,8 +7,11 @@
 		<h2>AR extention to the Minimap</h2>
 
 		<div class="jumbotron">
-			<iframe class="imgur-embed" width="100%" height="404" frameborder="0" src="http://i.imgur.com/JwU9C0j.gifv#embed"></iframe>
-			<h4>Screen Shot Text</h4>
+			<%--<iframe class="imgur-embed" width="100%" height="404" frameborder="0" src="http://i.imgur.com/JwU9C0j.gifv#embed"></iframe>--%>
+            <%--<iframe src="https://imgur.com/JwU9C0j" width="800" height="400"  style="border:none;"></iframe>--%>
+            
+            <blockquote class="imgur-embed-pub" lang="en" data-id="JwU9C0j"><a href="//imgur.com/JwU9C0j"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+            			<h4>A recording of both the "phone" and server veiw.</h4>
 		</div>
 
 		<div>
