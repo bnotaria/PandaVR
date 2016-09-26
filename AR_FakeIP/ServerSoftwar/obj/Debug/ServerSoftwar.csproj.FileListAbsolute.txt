@@ -1,0 +1,13 @@
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\bin\Debug\ServerSoftwar.exe.config
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\bin\Debug\ServerSoftwar.exe
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\bin\Debug\ServerSoftwar.pdb
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\MainWindow.g.cs
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\App.g.cs
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\ServerSoftwar_MarkupCompile.cache
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\ServerSoftwar_MarkupCompile.lref
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\MainWindow.baml
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\ServerSoftwar.g.resources
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\ServerSoftwar.Properties.Resources.resources
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\ServerSoftwar.csproj.GenerateResource.Cache
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\ServerSoftwar.exe
+c:\users\spiffy\documents\visual studio 2015\Projects\ClientSoftware\ServerSoftwar\obj\Debug\ServerSoftwar.pdb
