@@ -30,3 +30,19 @@
 	height: auto;
 	padding: 0;
 }
+
+.spacer {
+	margin-top: 2em;
+}
+
+body {
+	background-color: lightgray;
+}
+
+.fluid-container {
+	background-color: white;
+	padding: 2em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	border-radius: 3px;
+}
