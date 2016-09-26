@@ -54,12 +54,14 @@
 				The course used JOGL, Java openGL. It started with a how to draw point, building up to lines and polygons. Then we used a Model View Projection matrices to create a 3d scene. We finish with Blinn-Phong shader logic.
 			</p>
 
-			<h4>Large Project: Planet</h4>
+			<div class="well">
+				<h4>Large Project: Planet</h4>
 
-			<p>
-				I wrote code to generate a sphere in such a way that the vertexes were in a systematic order. I than add verous ways to interact and color the sphere. Such ways included heat-like defusions, impact coloring, click, and Perlin noise. I also took the sphere and swapped the vertexes and faces to make a hex planet.
-			</p>
-
+				<p>
+					I wrote code to generate a sphere in such a way that the vertexes were in a systematic order. I than add verous ways to interact and color the sphere. Such ways included heat-like defusions, impact coloring, click, and Perlin noise. I also took the sphere and swapped the vertexes and faces to make a hex planet.
+				</p>
+			</div>
+			
 			<hr />
 
 			<h2>MATH322 - Advance Linear Algebra</h2>
@@ -84,10 +86,13 @@
 		</div>
 		<div id="tabsC">
 			<h2>CS367 - Computer System and Programming</h2>
-			<h4>Large Project: the BOMB</h4>
-			<p>
-				A group project with gcc complied EXE that would send 6 failure signals to the teacher. The goal is to pass the correct input auguments to prevent the fail signals. We were tasked with going into the x86 assembly code to find out input would skip the failure codes, and run the success signals.
-			</p>
+
+			<div class="well">
+				<h4>Large Project: the BOMB</h4>
+				<p>
+					A group project with gcc complied EXE that would send 6 failure signals to the teacher. The goal is to pass the correct input auguments to prevent the fail signals. We were tasked with going into the x86 assembly code to find out input would skip the failure codes, and run the success signals.
+				</p>
+			</div>
 
 			<hr />
 
