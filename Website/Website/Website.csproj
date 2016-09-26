@@ -100,6 +100,7 @@
     <Content Include="Content\themes\base\tabs.css" />
     <Content Include="Content\themes\base\theme.css" />
     <Content Include="Content\themes\base\tooltip.css" />
+    <Content Include="MastersThesis.aspx" />
     <Content Include="Scripts\jquery-1.12.4.js" />
     <Content Include="Scripts\jquery-1.12.4.min.js" />
     <Content Include="Scripts\jquery-ui-1.12.1.js" />
@@ -140,6 +141,13 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MastersThesis.aspx.cs">
+      <DependentUpon>MastersThesis.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MastersThesis.aspx.designer.cs">
+      <DependentUpon>MastersThesis.aspx</DependentUpon>
+    </Compile>
     <Compile Include="tablisting.aspx.cs">
       <DependentUpon>tablisting.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
