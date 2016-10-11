@@ -1,0 +1,3 @@
+F:\_Portfolio\PandaVR\AR_FakeIP\ServerSoftwar\bin\Debug\ServerSoftwar.exe.config
+F:\_Portfolio\PandaVR\AR_FakeIP\ServerSoftwar\obj\Debug\ServerSoftwar.exe
+F:\_Portfolio\PandaVR\AR_FakeIP\ServerSoftwar\obj\Debug\ServerSoftwar.pdb
