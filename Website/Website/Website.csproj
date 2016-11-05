@@ -105,6 +105,7 @@
     <Content Include="Scripts\jquery-1.12.4.min.js" />
     <Content Include="Scripts\jquery-ui-1.12.1.js" />
     <Content Include="Scripts\jquery-ui-1.12.1.min.js" />
+    <Content Include="ProjectAlchemy.aspx" />
     <Content Include="tablisting.aspx" />
     <Content Include="Reddot.aspx" />
     <Content Include="ARMinimap.aspx" />
@@ -147,6 +148,13 @@
     </Compile>
     <Compile Include="MastersThesis.aspx.designer.cs">
       <DependentUpon>MastersThesis.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProjectAlchemy.aspx.cs">
+      <DependentUpon>ProjectAlchemy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProjectAlchemy.aspx.designer.cs">
+      <DependentUpon>ProjectAlchemy.aspx</DependentUpon>
     </Compile>
     <Compile Include="tablisting.aspx.cs">
       <DependentUpon>tablisting.aspx</DependentUpon>
