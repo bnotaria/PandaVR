@@ -51,10 +51,6 @@
                 These harvest spots are gaurded by mobs. This is where the "Gameplay" is. Items that the player made allow them to tackle harder mobs quicker. Allowing them in turn to gather more exclusive ingredients to make stronger weapons.  
 			</p>
 		</div>
-			<li><a href="#tabsItemManager">Item Manager</a></li>
-			<li><a href="#tabsRecipeManager">Recipe Manager</a></li>
-			<li><a href="#tabsHarvestSpotManager">Harvest Manager</a></li>
-			<li><a href="#tabsSpriteManager">Sprite Manager</a></li>
 		<div id="tabsItemManager">
 			<h1>Item Manager</h1>
 			<h3></h3>
@@ -74,6 +70,11 @@
 			<h3></h3>
 			<p>
 				What is a game about weird and awesome alchemy without recipes. The most basic form of this just defines the ins and outs. There are two types of inputs. The first requires a specsific item. In addition a ingredient slot can also be catigorical. These slots allow any item of the category set in the Item Manager.
+            </p><p>
+                The used of different items in the same catagory will change how much of each element is present in the operation. This changes the what secondary effects get item to the final item. For instance, if you have zero fire element you might trigger no effects, but at 8 fire element you get added fire damage to your weapon. 
+            </p><p>
+                These effects are set in the Recipe maneger. Right below where the designer sets the ingredients, there are list fields for them to add recipe effects. These recipe effects include an EffectID and min and max level of the associated element.               
+
 			</p>
 			
 		</div>
@@ -81,7 +82,9 @@
 			<h1>Harvest Spot Manager</h1>
 			<h3></h3>
 			<p>
-				
+				Later in the game's lifecycle, not all objects will be created equal, some will have special effects on otherwise identical items. This allows players to inject extra stats and effects into their weapons, by using this items. To allow the game designer to design these item drops, we create an interface that allows for creation of a harvest spots in a centeral location.
+            </p><p>
+                The Harvest spots in world contain a harvest ID, a string representing what database entry it links with, and harvest count. Keeping the harvest count on the spot and not in the database allows the level designer to have more freedom. For instance, they might want quick on the trail spots that are to show the player what items are advalible and deeper guarded spots for the player in need of an item to seekout.
 			</p>
 			
 		</div>
@@ -89,7 +92,7 @@
 			<h1>Sprite Manager</h1>
 			<h3></h3>
 			<p>
-				
+				The last interface is a specialized dictionary editor for names to sprites. A practial up shot of this custom sprite database comes in up in the Item Manager. Any time a manager needs a item sprite, it does it through a dropdown list opposed to a text feild or object field. If it used a text field, there would be a high chance of a game breaking typo. If it did it through an object field, it would be decentrialized, making it harder for the artist to replace placeholder art. How the Sprite DB facitates this is through the seperation out the item icons, but leaving behind the terrian tiles and player models. This means the list of all keys is small in functional.
 			</p>
 			
 		</div>
