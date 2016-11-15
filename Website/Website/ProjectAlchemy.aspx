@@ -52,7 +52,14 @@
 			</p>
 		</div>
 		<div id="tabsItemManager">
-			<h1>Item Manager</h1>
+			<h1>Item Manager UI</h1>
+			<div class="well">
+				<h4>All the content managers for the RPG.</h4>
+                <a href="http://imgur.com/OkqBLu8"><img src="http://i.imgur.com/OkqBLu8.png" title="source: imgur.com" width="900px"/></a>
+				<p>
+					The Item Manager has ItemID list on the left and an Inspector on the right. The Inspector allows for the setting of commen settings, such as ID and Sprite, and sepecialized settings depending on item type. 
+				</p>
+			</div>
 			<h3></h3>
 			<p>
 				The Item Manager is the most importent and most complex editor extention. It controls the item's internal id, display name, rarity and inventory icon for all items. Items of different types can have different editor fields. For instance a weapon would have attack damage and speed, while a reagent would information used in alchemy.
@@ -67,6 +74,13 @@
 		</div>
 		<div id="tabsRecipeManager">
 			<h1>Recipe Manager</h1>
+			<div class="well">
+				<h4>The Recipe Manager UI</h4>
+                <a href="http://imgur.com/jhi5kZv"><img src="http://i.imgur.com/jhi5kZv.png" title="source: imgur.com" width="900px"/></a>
+				<p>
+					The UI is seperated into two collumns, on the left is a Recipe selection and the right is the Recipe Inspector. The Recipe Inspector has three section general, Ingredients, and Effect List.
+				</p>
+			</div>
 			<h3></h3>
 			<p>
 				What is a game about weird and awesome alchemy without recipes. The most basic form of this just defines the ins and outs. There are two types of inputs. The first requires a specsific item. In addition a ingredient slot can also be catigorical. These slots allow any item of the category set in the Item Manager.
@@ -80,6 +94,13 @@
 		</div>
 		<div id="tabsHarvestSpotManager">
 			<h1>Harvest Spot Manager</h1>
+			<div class="well">
+				<h4>The Harvest Spot DB UI</h4>
+                <a href="http://imgur.com/27mKvo8"><img src="http://i.imgur.com/27mKvo8.png" title="source: imgur.com" width="900px"/></a>
+				<p>
+					The Harvest Spot UI has HarvestSpotsID list on the left and an Inspector on the right. The Inspector allows you to set the chances and quality pay offs.  
+				</p>
+			</div>
 			<h3></h3>
 			<p>
 				Later in the game's lifecycle, not all objects will be created equal, some will have special effects on otherwise identical items. This allows players to inject extra stats and effects into their weapons, by using this items. To allow the game designer to design these item drops, we create an interface that allows for creation of a harvest spots in a centeral location.
@@ -89,16 +110,19 @@
 			
 		</div>
 		<div id="tabsSpriteManager">
-			<h1>Sprite Manager</h1>
+			<h1>Sprite Manager DB UI</h1>
+			<div class="well">
+				<h4>The Sprite Manager UI.</h4>
+                <a href="http://imgur.com/g1IqUCY"><img src="http://i.imgur.com/g1IqUCY.png" title="source: imgur.com" width="900px"/></a>
+				<p>
+					The Sprite Manager UI is a single list with key-value pairs.
+				</p>
+			</div>
 			<h3></h3>
 			<p>
 				The last interface is a specialized dictionary editor for names to sprites. A practial up shot of this custom sprite database comes in up in the Item Manager. Any time a manager needs a item sprite, it does it through a dropdown list opposed to a text feild or object field. If it used a text field, there would be a high chance of a game breaking typo. If it did it through an object field, it would be decentrialized, making it harder for the artist to replace placeholder art. How the Sprite DB facitates this is through the seperation out the item icons, but leaving behind the terrian tiles and player models. This means the list of all keys is small in functional.
 			</p>
 			
 		</div>
-		<!---        
-        Skills
-
-    --->
 	</div>
 </asp:Content>
